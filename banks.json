@@ -172,6 +172,43 @@
     "negativeIndicator": "-",
     "separateIndicator": null
   },
+  "Rabobank Creditcard": {
+    "bankName": "RABO",
+    "header": [
+      "Tegenrekening IBAN",
+      "Munt",
+      "Creditcard Nummer",
+      "Productnaam",
+      "Creditcard Regel1",
+      "Creditcard Regel2",
+      "Transactiereferentie",
+      "Datum",
+      "Bedrag",
+      "Omschrijving",
+      "Oorspr bedrag",
+      "Oorspr munt",
+      "Koers"
+    ],
+    "account": [],
+    "date": [
+      "Datum"
+    ],
+    "dateFormat": "YYYY-MM-DD",
+    "payee": [],
+    "category": [],
+    "memo": [
+      "Omschrijving"
+    ],
+    "outflow": [
+      "Bedrag"
+    ],
+    "inflow": [
+      "Bedrag"
+    ],
+    "positiveIndicator": "+",
+    "negativeIndicator": "-",
+    "separateIndicator": null
+  },
   "ING Bank": {
     "bankName": "INGB",
     "header": [

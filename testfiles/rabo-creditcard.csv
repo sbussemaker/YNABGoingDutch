@@ -1,0 +1,5 @@
+"Tegenrekening IBAN","Munt","Creditcard Nummer","Productnaam","Creditcard Regel1","Creditcard Regel2","Transactiereferentie","Datum","Bedrag","Omschrijving","Oorspr bedrag","Oorspr munt","Koers"
+"NL00RABO1234567890","EUR","1234","RaboCard Mastercard","D.A.W. HAITINK","","0000000000003","2023-01-12","-11,99","DIENST1 NLD","","",""
+"NL00RABO1234567890","EUR","1234","RaboCard Mastercard","D.A.W. HAITINK","","0000000000004","2023-01-17","-9,39","DIENST2 USA","10,00","USD","1,06496"
+"NL00RABO1234567890","EUR","1234","RaboCard Mastercard","D.A.W. HAITINK","","0000000000005","2023-01-17","-0,19","Koersopslag","","",""
+"NL00RABO1234567890","EUR","1234","RaboCard Mastercard","D.A.W. HAITINK","","0000000000008","2023-01-28","+22,28","Verrekening vorig overzicht","","",""
